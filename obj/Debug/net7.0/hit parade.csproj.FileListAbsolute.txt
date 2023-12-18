@@ -1,0 +1,30 @@
+C:\Users\Simone\Desktop\hit parade\obj\Debug\net7.0\hit parade.csproj.AssemblyReference.cache
+C:\Users\Simone\Desktop\hit parade\obj\Debug\net7.0\hit parade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simone\Desktop\hit parade\obj\Debug\net7.0\hit parade.AssemblyInfoInputs.cache
+C:\Users\Simone\Desktop\hit parade\obj\Debug\net7.0\hit parade.AssemblyInfo.cs
+C:\Users\Simone\Desktop\hit parade\obj\Debug\net7.0\hit parade.csproj.CoreCompileInputs.cache
+C:\Users\Simone\Desktop\hit parade\bin\Debug\net7.0\hit parade.exe
+C:\Users\Simone\Desktop\hit parade\bin\Debug\net7.0\hit parade.deps.json
+C:\Users\Simone\Desktop\hit parade\bin\Debug\net7.0\hit parade.runtimeconfig.json
+C:\Users\Simone\Desktop\hit parade\bin\Debug\net7.0\hit parade.dll
+C:\Users\Simone\Desktop\hit parade\bin\Debug\net7.0\hit parade.pdb
+C:\Users\Simone\Desktop\hit parade\obj\Debug\net7.0\hit parade.dll
+C:\Users\Simone\Desktop\hit parade\obj\Debug\net7.0\refint\hit parade.dll
+C:\Users\Simone\Desktop\hit parade\obj\Debug\net7.0\hit parade.pdb
+C:\Users\Simone\Desktop\hit parade\obj\Debug\net7.0\hit parade.genruntimeconfig.cache
+C:\Users\Simone\Desktop\hit parade\obj\Debug\net7.0\ref\hit parade.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\bin\Debug\net7.0\hit parade.exe
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\bin\Debug\net7.0\hit parade.deps.json
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\bin\Debug\net7.0\hit parade.runtimeconfig.json
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\bin\Debug\net7.0\hit parade.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\bin\Debug\net7.0\hit parade.pdb
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\obj\Debug\net7.0\hit parade.csproj.AssemblyReference.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\obj\Debug\net7.0\hit parade.GeneratedMSBuildEditorConfig.editorconfig
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\obj\Debug\net7.0\hit parade.AssemblyInfoInputs.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\obj\Debug\net7.0\hit parade.AssemblyInfo.cs
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\obj\Debug\net7.0\hit parade.csproj.CoreCompileInputs.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\obj\Debug\net7.0\hit parade.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\obj\Debug\net7.0\refint\hit parade.dll
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\obj\Debug\net7.0\hit parade.pdb
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\obj\Debug\net7.0\hit parade.genruntimeconfig.cache
+H:\progetti\steve jobs\1 - FATTO\Programmazione 2 --\hit parade\obj\Debug\net7.0\ref\hit parade.dll
